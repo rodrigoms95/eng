@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Investigación"
-    url: /investigacion/
-  - title: "Acerca de"
-    url: /acerca_de/
+  - title: "Research"
+    url: /research/
+  - title: "About"
+    url: /about/
   - title: "CV"
     url: /cv/
   - title: "Blog"
     url: /blog/
-  - title: "Edificios Sustentables"
-    url: /edificios_sustentables/
-  - title: "English"
-    url: https://rodrigoms95.github.io/en-site/
+  - title: "Sustainable Buildings"
+    url: /sustainable_buildings/
+  - title: "Español"
+    url: https://rodrigoms95.github.io/
