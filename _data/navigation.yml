@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Investigación"
+    url: /investigacion/
+  - title: "Acerca de"
+    url: /acerca_de/
+  - title: "CV"
+    url: /cv/
+  - title: "Blog"
+    url: /blog/
+  - title: "Edificios Sustentables"
+    url: /edificios_sustentables/
+  - title: "English"
+    url: https://rodrigoms95.github.io/en-site/
