@@ -1,8 +1,11 @@
 ---
-layout: page
 title: "Blog"
 permalink: /blog/
+layout: categories
 author_profile: true
 ---
 
-¡En Construcción!
+[Order posts by date](../blog_fechas)
+
+[Order posts by tag](../blog_etiquetas)
+
