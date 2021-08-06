@@ -2,15 +2,17 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "About"
-    url: /about/
-  - title: "CV"
-    url: /cv/
   - title: "Blog"
     url: /blog/
+  - title: "Academic"
+    url: /academic/
+  - title: "REDUCE - Enterprise"
+    url: /reduce/
+  - title: "Resumé"
+    url: /resume/
   - title: "Sustainable Buildings"
     url: /sustainable_buildings/
+  - title: "About"
+    url: /about/
   - title: "Español"
     url: https://rodrigoms95.github.io/
