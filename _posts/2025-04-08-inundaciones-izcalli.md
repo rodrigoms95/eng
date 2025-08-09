@@ -8,7 +8,7 @@ tags:
   - precipitation
 excerpt_separator: <!--more-->
 header:
-  - teaser: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  - teaser: ../assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
 classes: wide
 date:               2025-04-08
 last_modified_at:   2025-08-08
@@ -20,7 +20,7 @@ last_modified_at:   2025-08-08
   Photo: ADN
 </p>
 
-We are all familiar with the idea that climate change in bringing about rising temperatures and, consequently, more intense heat waves in summer. However, in reality, it involves a multitude of changes on a planetary scale, such as ocean acidification, melting glaciers, and changes in precipitation patterns.
+We are all familiar with the idea that climate change is bringing about rising temperatures and, consequently, more intense heat waves in summer. However, in reality, it involves a multitude of changes on a planetary scale, such as ocean acidification, melting glaciers, and changes in precipitation patterns.
 
 A warmer atmosphere can store more water vapor, so global precipitation is expected to increase. Local impacts could vary greatly due to changing wind patterns, with some places experiencing an increase in precipitation and others a decrease. Another important element to consider is the duration over which total precipitation accumulates: if we have a storm that lasts 6 hours and accumulates 12 mm, the precipitation intensity is 2 mm/hour, and urban drainage systems are likely to be able to adequately evacuate stormwater. On the other hand, with heavier rainfall, e.g. if the same 12 millimeters ocurred in a storm that only lasted 2 hours, the precipitation intensity would be now 6 mm/hour. If the drainage system was not designed for such precipitation intensity, flooding is possible.
 
