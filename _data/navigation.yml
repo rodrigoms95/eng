@@ -4,15 +4,11 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "Academic"
-    url: /academic/
-  - title: "REDUCE - Enterprise"
-    url: /reduce/
-  - title: "Resumé"
-    url: /resume/
-  - title: "Sustainable Buildings"
-    url: /sustainable_buildings/
-  - title: "About"
-    url: /about/
-  - title: "Español"
-    url: https://rodrigoms95.github.io/
+  - title: "Académico"
+    url: /academico/
+  - title: "Experiencia Profesional"
+    url: /experiencia_profesional/
+  - title: "Acerca de"
+    url: /acerca_de/
+  - title: "English"
+    url: https://rodrigoms95.github.io/eng/

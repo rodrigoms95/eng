@@ -1,37 +1,80 @@
 ---
-layout: page
-title: "Research & Academic"
+title: "Research"
 permalink: /academic/
+layout: single
 author_profile: true
+toc: true
+toc_sticky: false
 ---
 
-Aquí podrás encontrar una resumen de mi actividad académica.
+Here you'll find a summary of my academic activity.
 
-[//]: # (Artículos Académicos)
-
-[//]: # (Tesis dirigidas)
-
-## Temas de investigación
-
-Para descargar un pdf con información de mis líneas de investigación mis temas propuestos para tesis de licenciatura haz clic [aquí.](../assets/pdf/Temas_investigación_Ago21.pdf)
-
-* Puedes entrar a la página con información de mis líneas de investigación [aquí.](./research_topics)
-* Puedes entrar a la página con de temas propuestos para tesis de licenciatura [aquí.](./dissertation_topics)
+Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a PDF with my resumé.
 
 
-## Tesis realizadas
-* **Licenciatura:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. *Febrero 2019* [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
+# Academic Papers
+
+* **Muñoz-Sánchez, R.**, Bastien-Olvera, B. A., Calderón, O., Estrada Porrúa, F., & Altamirano, M. (2025). GeoMIP-Pattern – a pattern scaling dataset for efficient generation of custom geoengineering scenarios. Scientific Data, 12(1), 1343. [https://doi.org/10.1038/s41597-025-05496-6](https://doi.org/10.1038/s41597-025-05496-6)
+* **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An objective procedure for rainy season onset and withdrawal dates over the Mexico Valley Basin. Theoretical and Applied Climatology. [https://doi.org/10.1007/s00704-023-04714-8](https://doi.org/10.1007/s00704-023-04714-8)
 
 
-## Cursos impartidos
-* **Edificios Sustentables.** Curso de licenciatura de la carrera de ingeniería civil. Facultad de Ingeniería, UNAM. *CDMX, México. Febrero 2021 – actualidad.*
-* **Diseño e instalación de sistemas fotovoltaicos.** Curso de 16 horas impartido en las oficinas de REDUCE Soluciones. *CDMX, México*. **1°:** *Enero 2018,* **2°:** *Junio 2018,* **3°:** *Septiembre 2018,* **4°:** *Octubre 2018,* **5°:** *Febrero 2019,* **6°:** *Octubre 2019.*
+# Reports
 
-## Conferencias impartidas
-* **Casas ecológicas con energía solar**. Día Mundial de la Sustentabilidad, Sanofi Aventis. *Ocoyoacac, Estado de Mexico. Junio 2019.*
-* Energía solar distribuida para el futuro sustentable en México. Expo EnVerdeSer. *CDMX, México. Noviembre 2018.*
-* **Salva el planeta con tu casa ecológica. 1°:** *Expo EnVerdeSer Expo, CDMX. Noviembre 2016.* **2°:** Grupo de Rotarios La Herradura. *Huixquilucan, Estado de México. Octubre 2018.*
-* **Infraestructura Verde.** 1° Foro Climático. *Metepec, Estado de México. Junio 2018.*
-* **La crisis climática y sus soluciones.** Club Rotaract Reforma. *CDMX, México. Junio 2018.*
-* **La importancia de la ubicación en los proyectos fotovoltaicos.** Expo EnVerdeSer. *CDMX, México. Noviembre 2016.*
+* UNESCO. (2025). Who bears the costs? Addressing inequalities from climate change and climate action. UNESCO. [https://doi.org/10.54678/GIXE7906](https://doi.org/10.54678/GIXE7906)
+
+
+# Book Chapters
+
+* BRICS Youth Energy Agency (2024). BRICS Youth Energy Outlook 2024 - Chapter 4: Climate. BRICS Youth Energy Agency. [(web)](https://impact-mission.org/upload/news/BRICSYEO2024.pdf) [(pdf)](../assets/pdf/BRICS_Youth_Energy_Outlook_2024_04_-_Climate_Change.pdf)
+* BRICS Youth Energy Agency (2024). BRICS Youth Energy Outlook 2024 - Chapter 8: Business in Energy Sector. BRICS Youth Energy Agency. [(web)](https://impact-mission.org/upload/news/BRICSYEO2024.pdf) [(pdf)](../assets/pdf/BRICS_Youth_Energy_Outlook_2024_08_-_Business_in_Energy_Sector.pdf)
+
+
+# Dissertations (in Spanish)
+* **Bachelor's:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. Asesor: M.I. Rodrigo Sepúlveda. *Febrero 2019* [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
+* **Master's:** Definición de un índice objetivo para el cálculo del inicio y fin de la temporada de lluvias en la Cuenca del Valle de México. Asesora: Dra. Paulina Ordóñez.*Octubre 2023* [(web)](https://tesiunamdocumentos.dgb.unam.mx/ptd2023/septiembre/0846996/Index.html) [(pdf)](../assets/pdf/Tesis_Maestria_Rodrigo_Munoz.pdf)
+
+
+# Participation in projects
+* **Capacity Building for Science-Base Climate Policies and Updating Mexico's NDC**. Decarbonization Pathways Modeller. Participating Institutions: SEMARNAT, INECC, PINCC-UNAM, ICAyCC-UNAM, OSF. *Diciembre 2025 - Actual*
+* **UNESCO's Climate Transition Report** Exposure and Vulnerability Indices modeller and policy evaluator. Participating Institutions: UNESCO. *June 2024 - July 2025*.
+* **BRICS Youth Energy Agency**. Senior expert in Climate Change and Business in Energy Sector. Participating Institutions: BRICS Youth Energy Agency. *June 2024 - October 2024*
+* **Scientific Tools for Climate Change Decision Making in Mexico City** Climate scenarios modeller. Participating Institutions: CONAHCYT, UNAM.
+* **Geoengineering strategies risk evaluator**. Participating Institutions: Degrees Initiative, UNAM. *March 2024 - Present*
+
+
+# Teaching
+* *Graduate-level*
+    * **Proyectos fotovoltaicos**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *August 2024 - December 2024*.
+    * **Proyectos de infraestructura verde**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *January 2025 - July 2025*.
+* *Undergraduate-level*
+    * **Mass and Energy Transfer**. Undergraduate level course for the Environmental Engineering Major. School of Engineering, National Autonomous University of Mexico. *August 2023 – Jy 2025. Course taught 4 times*.
+    * **Cambio climático**. Undergraduate level course for the Environmental Engineering Major. School of Engineering, National Autonomous University of Mexico. *January 2024 – December 2024. Course taught 2 times*.
+    * **Contaminación por ruido y control**. Undergraduate level course for the Environmental Engineering Major. School of Engineering, National Autonomous University of Mexico. *January 2023 – July 2024. Course taught 3 times*.
+    * **Edificios Sustentables**. Undergraduate level course for the Civil Engineering Major. School of Engineering, National Autonomous University of Mexico. *January 2021 – July 2024. Course taught 7 times*.
+    * **Hidrología superficial** Undergraduate level course for the Environmental Engineering Major. School of Engineering, National Autonomous University of Mexico. *January 2024 – July 2024*.
+* *Other*
+    * **Photovoltaic Systems Design and Installation.** 16-hou course imparted at REDUCE Soluciones' Office Building. *Mexico City, Mexico*. 1°: *January 2018,* 2°: *June 2018,* 3°: *September 2018,* 4°: *October 2018,* 5°: *February 2019,* 6°: *October 2019*.
+
+
+# Conference speaker (in Spanish)
+* **¿Who bears the costs of climate change?** Joint conference with Rodolfo Lacy y and Mildred Castro. XLII FIL IPN 2025. *CDMX, July 2025*.
+
+<iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/QKeAx3MRDVE" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
+
+* **Modelling the impacts of geoengineering in the Global South**. Institute of Atmospheric Sciences and
+Climate Change, National Autonomous University of Mexico. *Mexico City, Mexico. February 2025*.
+
+<iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/OJ8jA1V5sWw" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
+
+* **Hydrological resilience and green infrastructure, a new approach from public policy**. Green
+Infrastructure Potential Forum, challenges for sustainable water management. Mexico's Senate *Mexico City, Mexico. December 2023*.
+
+<iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/KYvB_gkmeaI?si=IyAUHf_51CiRKt7T&amp;start=6731" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
+
+* **Ecological Homes with Solar Energy**. World Sustainability Day, Sanofi Aventis. *Ocoyoacac, State of Mexico. June 2019*.
+* Energía solar distribuida para el futuro sustentable en México. EnVerdeSer Expo. *CDMX, México. Noviembre 2018*.
+* **Distributed Solar Energy for the Sustainable Future in Mexico**. 1°: *EnVerdeSer Expo, CDMX. November 2016.* 2°: La Herradura Rotary Club. *Huixquilucan, State of Mexico. October 2018*.
+* **Green Infrastructure**. 1° Climate Forum. *Metepec, State of Mexico. June 2018*.
+* **The Climate Crisis and its Solutions**. Reforma Rotaract Club. *Mexico City, Mexico. June 2018*.
+* **The importance of location in solar energy projects.** EnVerdeSer Expo. *Mexico City. November 2016*.
 

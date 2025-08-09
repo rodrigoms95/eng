@@ -19,14 +19,14 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "es"
-title                    : "Rodrigo Muñoz: Personal site"
+title                    : "Rodrigo Muñoz: Personal website"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : *name_var
-description              : "Here you'll find information about my resumé and about my academic and work projects."
+description              : "Here, you'll find info about my academic and professional work."
 url                      : "https://rodrigoms95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rodrigoms95/rodrigoms95"
+repository               : "rodrigoms95/rodrigoms95/eng"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -105,30 +105,36 @@ analytics:
 # Site Author
 author:
   name             : *name_var
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "CEO of REDUCE Soluciones, Professor at FI-UNAM.
-                      Interested in solar energy, energy transition,
-                      sustainable building, sustainable development."
+  avatar           : "/assets/images/bio-photo.jpeg"
+  bio              : "PhD candidate in Earth Sciences. I work with socioeconomic impacts of climate change, just energy transitions, and integrated assessment modelling for decarbonization pathways."
   location         : "Mexico City, Mexico"
   email            : "rodrigoms95@gmail.com"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rodrigo.munos@atmosfera.unam.mx"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rodrigo-mu%C3%B1oz-s%C3%A1nchez-43975798/"
-    - label: "Twitter"
-      icon: "https://twitter.com/rodrigomunoz_s"
     - label: "GitHub"
       icon: "https://github.com/rodrigoms95"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/rodrigoms95"
+    - label: "Bluesky"
+      icon: "fab fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rodrigo-munoz.bsky.social"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rodrigomunoz_s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rodrigoms95"
+    - label: "Bluesky"
+      icon: "fab fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/rodrigo-munoz.bsky.social"
+  since: "2021"
 
 
 # Reading Files
@@ -197,10 +203,34 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
+# Pagination with jekyll-paginate
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+# Pagination with jekyll-paginate-v2
+# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+#   for configuration details
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+    
 
 # Plugins (previously gems:)
 plugins:
@@ -266,6 +296,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true

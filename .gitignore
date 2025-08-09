@@ -1,9 +1,9 @@
-# Documents to ignore
-*.code-workspace
-
 # Vim
 *~
 *.sw[p_]
+
+# IntelliJ IDEA
+*.idea
 
 # Sublime Text
 *.sublime-project
