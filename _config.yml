@@ -18,7 +18,7 @@ foo: &name_var "Rodrigo Muñoz Sánchez"
 minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "es"
+locale                   : "en"
 title                    : "Rodrigo Muñoz: Personal website"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
