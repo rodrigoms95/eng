@@ -30,11 +30,13 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 
 # Dissertations (in Spanish)
+
 * **Bachelor's:** Infraestructura distribuida para el desarrollo de la resiliencia urbana de la Ciudad de México. Asesor: M.I. Rodrigo Sepúlveda. *Febrero 2019* [(web)](http://132.248.9.195/ptd2019/enero/0784900/Index.html) [(pdf)](../assets/pdf/Tesis_Licenciatura_Rodrigo_Munoz.pdf)
 * **Master's:** Definición de un índice objetivo para el cálculo del inicio y fin de la temporada de lluvias en la Cuenca del Valle de México. Asesora: Dra. Paulina Ordóñez.*Octubre 2023* [(web)](https://tesiunamdocumentos.dgb.unam.mx/ptd2023/septiembre/0846996/Index.html) [(pdf)](../assets/pdf/Tesis_Maestria_Rodrigo_Munoz.pdf)
 
 
 # Participation in projects
+
 * **Capacity Building for Science-Base Climate Policies and Updating Mexico's NDC**. Decarbonization Pathways Modeller. Participating Institutions: SEMARNAT, INECC, PINCC-UNAM, ICAyCC-UNAM, OSF. *Diciembre 2025 - Actual*
 * **UNESCO's Climate Transition Report** Exposure and Vulnerability Indices modeller and policy evaluator. Participating Institutions: UNESCO. *June 2024 - July 2025*.
 * **BRICS Youth Energy Agency**. Senior expert in Climate Change and Business in Energy Sector. Participating Institutions: BRICS Youth Energy Agency. *June 2024 - October 2024*
@@ -43,6 +45,7 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 
 # Teaching
+
 * *Graduate-level*
     * **Proyectos fotovoltaicos**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *August 2024 - December 2024*.
     * **Proyectos de infraestructura verde**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *January 2025 - July 2025*.
@@ -57,6 +60,7 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 
 # Conference speaker (in Spanish)
+
 * **¿Who bears the costs of climate change?** Joint conference with Rodolfo Lacy y and Mildred Castro. XLII FIL IPN 2025. *CDMX, July 2025*.
 
 <iframe style="display: block; margin: auto;" src="https://www.youtube.com/embed/QKeAx3MRDVE" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
@@ -78,3 +82,7 @@ Infrastructure Potential Forum, challenges for sustainable water management. Mex
 * **The Climate Crisis and its Solutions**. Reforma Rotaract Club. *Mexico City, Mexico. June 2018*.
 * **The importance of location in solar energy projects.** EnVerdeSer Expo. *Mexico City. November 2016*.
 
+
+# Participation in congresses
+
+* **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An Objective Index for Monsoon Onset and Withdrawal Dates Over the Mexico Valley Basin. 103rd Annual AMS Meeting 2023. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/419268)
