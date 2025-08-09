@@ -26,7 +26,7 @@ The impacts of climate change on our household economies will be considerable. <
 To understand the origin of this problem, we must consider that the average family in Mexico uses 30% of their electricity to make their homes more comfortable when it is hot, either with fans or air conditioners. However, there is significant variation across the country: **in the center, only 3% is used for cooling, in the south 30% is used, and in the north it accounts for up to 53% of households' electricity bills**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_2.png" alt="Bar chart: in the center, only 3% is used for cooling, in the south 30% is used, and in the north it accounts for up to 53% of households' electricity bills" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_2.png" alt="Bar chart: in the center, only 3% is used for cooling, in the south 30% is used, and in the north it accounts for up to 53% of households' electricity bills" style='height: 75%; width: 75%; object-fit: contain'/>
   <br>
   Graph showing % of electric consumption due to AC for different regions in Mexico
   <br>

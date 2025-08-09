@@ -14,7 +14,7 @@ last_modified_at:   2025-05-07
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg" alt="Puerto Peñasco Solar Park (northwestern Mexico)" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png" alt="Puerto Peñasco Solar Park (northwestern Mexico)" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Puerto Peñasco Solar Park (northwestern Mexico) has battery storage systems for a better integration with the electricity grid.
   <br>
