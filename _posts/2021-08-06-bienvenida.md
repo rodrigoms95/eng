@@ -1,14 +1,14 @@
 ---
-title: "Bienvenida"
+title: "Welcome"
 categories:
   - General
 tags:
-  - contenido
-  - bienvenida
+  - content
+  - welcome
 excerpt_separator: <!--more-->
 classes: wide
 date:               2021-08-06
 last_modified_at:   2021-08-06
 ---
 
-Este el primer post de mi blog personal. La principal temática será académica. Aquí publicaré avances de mi investigación y de la que realicen mis alumnos.<!--more--> También escribiré artículos de opinión y publicaciones y resúmenes relacionados con las asignaturas que imparto.
+This is the first post on my personal blog. The main theme will be academic. <!--more-->Here I will publish updates on my research and that of my students. I will also write opinion pieces and publications and summaries related to the subjects I teach.
