@@ -8,7 +8,7 @@ tags:
   - precipitation
 excerpt_separator: <!--more-->
 header:
-  - teaser: assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  - teaser: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
 classes: wide
 date:               2025-04-08
 last_modified_at:   2025-08-08
@@ -17,7 +17,7 @@ last_modified_at:   2025-08-08
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Half-submerged car in a flooded street" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
-  Photo: ADN 40.
+  Photo: ADN
 </p>
 
 We are all familiar with the idea that climate change in bringing about rising temperatures and, consequently, more intense heat waves in summer. However, in reality, it involves a multitude of changes on a planetary scale, such as ocean acidification, melting glaciers, and changes in precipitation patterns.
