@@ -1,5 +1,5 @@
 ---
-title: "La curva de pato: el reto de la energía solar"
+title: "The duck curve: solar energy's challenge"
 categories:
   - Periódico de Izcalli
 tags:
@@ -14,38 +14,40 @@ last_modified_at:   2025-05-07
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg" alt="Central solar de Puerto Peñasco" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg" alt="Puerto Peñasco Solar Park (northwestern Mexico)" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
-  La central solar en Puerto Peñasco tiene sistemas de baterías para una mejor integración a la red eléctrica.
+  Puerto Peñasco Solar Park (northwestern Mexico) has battery storage systems for a better integration with the electricity grid.
   <br>
-  Fuente: PV Magazine
+  Source: PV Magazine
 </p>
 
-A nivel mundial, tres cuartas partes de las emisiones de gases de efecto invernadero que ocasionan el cambio climático se deben al uso de energía.  <!--more-->Entonces, la principal herramienta que tenemos para combatir al cambio climático es la transición energética; es decir, dejar de usar combustibles fósiles, como el petróleo, y empezar a usar casi toda nuestra energía a partir de energías renovables, como la eólica o la solar.
+Globally, three-quarters of the greenhouse gas emissions that cause climate change are due to energy use.  <!--more-->Therefore, the main tool we have to combat climate change is the energy transition; that is, to stop using fossil fuels, such as oil, and start using almost all of our energy from renewable sources, such as wind or solar.
 
-Sin embargo, un problema fundamental de la energía solar es que es variable, lo que significa que no tenemos acceso a la energía cuando la necesitamos, si no que solo la podemos utilizar cuando está disponible. Como es evidente, la energía solar solo está disponible durante el día, y tiene su pico de generación cuando el sol está en su punto más alto en el firmamento alrededor del mediodía. Por otro lado, la demanda, o el uso de la energía suele ser mínimo durante la madrugada y tener un valor máximo en el atardecer.
+However, a fundamental problem with solar energy is that it is variable, which means that we do not have access to energy when we need it, but can only use it when it is available. Obviously, solar energy is only available during the day, and its peak generation occurs when the sun is at its highest point in the sky around midday. On the other hand, demand, or energy use, is usually minimal during the early morning and peaks in the evening.
 
-Entonces, el problema es que el pico de generación de energía solar no corresponde al pico de demanda de electricidad, lo que origina un efecto que los operadores de la red eléctrica de California bautizaron como la curva de pato, por su semejanza con la panza y el cuello de un pato. Durante el mediodía hay demasiada generación de electricidad solar y muy poca demanda, por lo que se genera un periodo de muy baja demanda residual (la demanda que deben cubrir todas las otras centrales eléctricas) que en caso de llegar a cero ocasionaría un apagón, pues la generación y la demanda deben estar balanceadas en todo momento; a este punto se le llama coloquialmente la panza de la curva de pato. Por otro lado, al atardecer la generación solar ya está bajando, pero la demanda va en aumento. Entonces el resto de las centrales eléctricas tradicionales deben incrementar muy rápidamente su producción para compensar el cuello de la curva de pato, algo para lo cual no están adaptadas la mayoría de las plantas de generación.
+So, the problem is that peak solar power generation does not correspond to peak electricity demand, which causes an effect that California's power grid operators have dubbed the duck curve, because of its resemblance to a duck's belly and neck. At midday, there is too much solar electricity generation and too little demand, resulting in a period of very low residual demand (the demand that must be met by all other power plants), which, if it reaches zero, would cause a blackout, as generation and demand must be balanced at all times; this point is colloquially referred to as the belly of the duck curve. On the other hand, at sunset, solar generation is already declining, but demand is increasing. The rest of the traditional power plants must then very quickly increase their production to compensate for the neck of the duck curve, something for which most generation plants are not adapted.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_2.png" alt="Demanda eléctrica neta sobrepuesta a un dibujo de un pato" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_2.png" alt="Net electricity demand overlaid on a drawing of a duck" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
-  La curva de pato se forma al integrar la energía solar que produce más durante el mediodía.
+  The duck curves arises when solar energy is integrated to the grid.
   <br>
-  Fuente: Contrary Research
+  Source: Contrary Research
 </p>
 
-No obstante, esta característica de las energías renovables no debe ser tomada como una razón para retrasar la tan necesaria transición energética, puesto que ya tenemos las soluciones a la mano. En 2012, California se imaginaba un escenario catastrófico de la curva de pato para 2020 dada la cantidad de energía solar inyectada a la red; esta cantidad proyectada se alcanzó desde 2016 y sigue creciendo mientras que la catástrofe no ha llegado. Las dos principales soluciones han sido el apagar las centrales solares al mediodía en días muy soleados, que incluso con las pérdidas económicas resulta ser más barato que operar centrales carboeléctricas, y el instalar sistemas de baterías para almacenar electricidad, algo que ya estamos haciendo en México en la central solar de Puerto Peñasco, que al terminar su última etapa será la más grande de Latinoamérica.
+However, this characteristic of renewable energies should not be taken as a reason to delay the much-needed energy transition, since we already have the solutions at hand. In 2012, California imagined a catastrophic duck curve scenario for 2020 given the amount of solar energy injected into the grid; this projected amount was reached in 2016 and continues to grow, while the catastrophe has not materialized. The two main solutions have been to shut down solar power plants at midday on very sunny days, which even considering economic losses is cheaper than operating coal-fired power plants. The other main solution is to install battery systems to store electricity, **something we are already doing in Mexico at the Puerto Peñasco solar power plant, which will be the largest in Latin America when its final stage is completed**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_3.png" alt="Demanda eléctrica del sistema eléctrico nacional en un día hábil de invierno de 2022" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_3.png" alt="Mexico's electricity demand on a 2022 winter weekday" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
-  El fenómeno de la curva de pato se empieza a observar en la red eléctrica nacional.
+  The duck curve effect starts to be evident in Mexico's grid.
   <br>
-  Fuente: PRODESEN
+  Source: PRODESEN
 </p>
 
-Además, existen países cuya red eléctrica tiene ya características que permiten que le afecte menos la curva de pato al tener más flexibilidad. Algunas características importantes que dan flexibilidad a las redes eléctricas son una amplia presencia de centrales hidroeléctricas y de turbogás, que pueden prenderse y apagarse muy rápidamente para cubrir con las demandas de la curva de pato. En este sentido México tiene una amplia flexibilidad y todavía un porcentaje muy bajo de energías renovables, y todavía tenemos la posibilidad de aumentar más de 10 veces la energía renovable que generamos antes de encontrarnos con cualquier problema, por lo que es urgente que nuestro país empiece a actuar para evitar los peores efectos del cambio climático.
+Additionally, there are countries whose electricity grids already have characteristics that allow them to be less affected by the duck curve because they have greater flexibility. Some important characteristics that give electricity grids flexibility are a large number of hydroelectric and gas power plants, which can be turned on and off very quickly to meet the demands of the duck curve. In this regard, Mexico has ample flexibility and still a very low percentage of renewable energy, and we still have the possibility of increasing the renewable energy we generate more than tenfold before encountering any problems. It is therefore urgent that Mexico begin to take action to avoid the worst effects of climate change.
 
 
-Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/07/01/la-curva-de-pato-el-reto-de-la-energia-solar/)
+*Article translated from Spanish with DeepL, proofread by a human*
+
+*Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/07/01/la-curva-de-pato-el-reto-de-la-energia-solar/)*

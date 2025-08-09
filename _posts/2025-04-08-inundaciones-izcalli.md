@@ -37,6 +37,6 @@ This stark change should be a wake-up call for all municipalities regarding the 
 </p>
 
 
-Article translated from Spanish with DeepL, proofread by a human
+*Article translated from Spanish with DeepL, proofread by a human*
 
-Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)
+*Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/04/08/columna-lluvias-extremas-y-cambio-climatico-en-cuautitlan-izcalli/)*

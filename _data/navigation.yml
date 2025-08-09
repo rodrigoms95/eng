@@ -4,11 +4,11 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "Académico"
-    url: /academico/
-  - title: "Experiencia Profesional"
-    url: /experiencia_profesional/
-  - title: "Acerca de"
-    url: /acerca_de/
+  - title: "Research"
+    url: /academic/
+  - title: "Professional Experience"
+    url: /professional_experience/
+  - title: "About"
+    url: /about/
   - title: "Español"
     url: https://rodrigoms95.github.io/

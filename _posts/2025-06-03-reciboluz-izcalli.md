@@ -1,11 +1,11 @@
 ---
-title: "Tu recibo de luz subirá por el cambio climático"
+title: "Your electricity bill will be more expensive due to climate change"
 categories:
-  - Periódico de Izcalli
+  - Izcalli Times
 tags:
-  - cambio climático
-  - energía
-  - electricidad
+  - climate change
+  - energy
+  - electricty
 excerpt_separator: <!--more-->
 classes: wide
 date:               2025-06-03
@@ -13,39 +13,33 @@ last_modified_at:   2025-06-03
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg" alt="Un termómetro y una persona con calor" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg" alt="A thermometer and a person feeling the hot weather" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
-  El consumo de electricidad residencial podría subir hasta 20% para 2070 debido al enfriamiento para mantenerse confortables pese al cambio climático.
+  Residential electricity consumption could rise up to 20% by 2070 due to cooling demands to stay comfortable despite climate change.
   <br>
-  Imagen: neopraxis.mx
+  Image: neopraxis.mx
 </p>
 
 
-Los impactos del cambio climático en la economía de nuestros hogares serán considerables. <!--more-->El aumento de temperatura hará que consumamos más electricidad, y en las olas de calor más intensas será más difícil para la red eléctrica el satisfacer la demanda, efecto que ya empezamos a ver hoy día en la Península de Yucatán con sus continuos apagones.
+The impacts of climate change on our household economies will be considerable. <!--more-->Rising temperatures will cause us to consume more electricity, and during more intense heat waves, it will be harder for the power grid to meet demand, an effect we are already beginning to see today in the Yucatan Peninsul (southeaster Mexico) with its continuous blackouts.
 
-Para entender el origen de este problema, hay que considerar que la familia promedio en México utiliza 30% de la energía eléctrica para hacer más confortable su casa cuando hace calor, ya sea con ventiladores o con aires acondicionados. Sin embargo, hay una importante variación a lo largo del país: **en el centro apenas se utiliza el 3% para enfriamiento, en el sur se utiliza el 30% y en el norte llega a representar hasta el 53% del recibo de CFE de los hogares**.
+To understand the origin of this problem, we must consider that the average family in Mexico uses 30% of their electricity to make their homes more comfortable when it is hot, either with fans or air conditioners. However, there is significant variation across the country: **in the center, only 3% is used for cooling, in the south 30% is used, and in the north it accounts for up to 53% of households' electricity bills**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_2.png" alt="Un termómetro y una persona con calor" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_2.png" alt="Bar chart: in the center, only 3% is used for cooling, in the south 30% is used, and in the north it accounts for up to 53% of households' electricity bills" style='height: 50%; width: 50%; object-fit: contain'/>
   <br>
-  Gráfica de % de costo de aire acondicionado/climas para las regiones de México
+  Graph showing % of electric consumption due to AC for different regions in Mexico
   <br>
-  Elaboración propia con datos de ISBN:978-607-8273-30-0
+  Own ellaboration with data from ISBN:978-607-8273-30-0
 </p>
 
-CFE conoce estas diferencias regionales y aplica distintas tarifas de luz en diferentes localidades; en algunos lugares relativamente templados como la Ciudad de México se tiene la tarifa básica 1 donde la luz cuesta desde $ 1.08/kWh. En Cuernavaca, un poco más caluroso, la tarifa 1A es más barata; empieza en $ 0.96/kWh. En las ciudades más calientes del país, como San Luis Río Colorado en Sonora, la tarifa 1F empieza en $ 0.80/kWh. La idea de esta diferenciación es que donde hace más calor la gente utiliza más electricidad para mantener el confort, y CFE subsidia más las tarifas para cuidar el presupuesto de los hogares. En realidad, esto es un problema enorme para CFE, que debe recibir cada año **120 mil millones** de pesos para compensar que la mayor parte de la población paga menos del 30% de lo que cuesta generar la electricidad. Lo que empeora la situación es que esos subsidios no llegan a quienes más los necesitan; la estructura tarifaria actual hace que quienes tienen el dinero para pagar un aire acondicionado y consumir más electricidad reciban la mayor parte del subsidio.
+CFE (Mexican electric utility) is aware of these regional differences and applies different electricity rates across the country. In some relatively temperate places such as Mexico City (central Mexico), the basic rate 1 applies, where electricity costs start at MXN 1.08/kWh (around US $0.05). In Cuernavaca (central-southern Mexico), which is a little hotter, rate 1A is cheaper, starting at $0.96/kWh. In the hottest cities in the country, such as San Luis Río Colorado in Sonora (northwestern Mexico), rate 1F starts at $0.80/kWh. The idea behind this differentiation is that where it is hotter, people use more electricity to maintain comfort, and CFE subsidizes rates more to protect household budgets. In reality, this is a huge problem for CFE, which must receive **120 billion** Mexican pesos each year to compensate for the fact that most of the population pays less than 30% of what it costs to generate electricity. What makes the situation worse is that these subsidies do not reach those who need them most; the current rate structure means that those who have the money to pay for air conditioning and consume more electricity receive most of the subsidy.
 
-A este contexto se le debe agregar el efecto del cambio climático. Hay que pensar qué sucederá en un país que se calienta más rápido que el resto del mundo: una noticia muy sonada en las últimas semanas fue que **México se ha calentado 1.8°C mientras que el promedio global es de 1.3°C**, cifras obtenidas por investigadores del Programa de Investigación en Cambio Climático de la UNAM. **Para 2100, podríamos tener más de 3.1°C de calentamiento en Izcalli**. Hoy la familia promedio de Izcalli paga $ 165.00 bimestrales de luz. Para 2070, esa misma familia podría tener que pagar hasta otros $ 137.00 adicionales únicamente debido al incremento en las demandas de enfriamiento para mantener condiciones confortables dentro de las casas. A nivel nacional, el consumo eléctrico residencial podría subir casi hasta 20% para 2070 por el calentamiento global.
+This tariff structure is particularly vulnerable to climate change. We must consider what will happen in a country that is warming faster than the rest of the world: a much-discussed news item in recent weeks was that **Mexico has warmed by 1.8°C while the global average is 1.3°C**, figures obtained by researchers from the UNAM Climate Change Research Program. **By 2100, we could see more than 3.1°C of warming in Izcalli, a suburb of Mexico City**. Today, the average family in Izcalli pays $165.00 every two months for electricity. By 2070, that same family could have to pay up to an additional $137.00 solely due to the increase in cooling demands to maintain comfortable conditions inside their homes. Nationwide, residential electricity consumption could rise by almost 20% by 2070 due to global warming.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_3.png" alt="México, una casa, y una torre de transmisión con un recibo de luz con datos: +1.3°C Promedio Global, +1.8°C México (promedio), +3.1°C Izcalli en 100 años, el calentamiento global podría elevar las facturas de electricidad de los hogares en el futuro." style='height: 150%; width: 150%; object-fit: contain'/>
-  <br>
-  El calentamiento global podría elevar las facturas de electricidad de los hogares en el futuro.
-  <br>
-  Imagen generada con IA.
-</p>
-
-Para mantenerse cómodas, muchas familias que tengan la posibilidad económica comprarán aire acondicionado. Hoy, solo el 20% de los hogares mexicanos cuentan con aire acondicionado, pero en lugares con mayores ingresos como Estados Unidos esta cifra aumenta hasta el 89%. Sin embargo, esta no es una buena medida de adaptación al cambio climático, ya que se tiene un enorme consumo eléctrico que puede llevar a la falla a la red eléctrica nacional justo cuando más la necesitamos; un apagón en el día más caliente del año rápidamente se puede convertir en una tragedia. Para realmente podernos adaptar correctamente, el gobierno debe fomentar que nuestras casas rechacen el calor del exterior, con aislantes térmicos, impermeabilizantes de color claro, y un diseño bioclimático que esté en sintonía con el clima de nuestra localidad.
+To stay comfortable, many families who can afford it will buy air conditioning. Today, only 20% of Mexican households have air conditioning, but in higher-income places such as the United States, this figure rises to 89%. However, this is not a good measure of adaptation to climate change, as it involves enormous electricity consumption that can lead to the failure of the national power grid just when we need it most; a blackout on the hottest day of the year can quickly turn into a tragedy. To truly adapt properly, the government must encourage our homes to reject external heat with thermal insulation, light-colored waterproofing, and a bioclimatic design that is in tune with our local climate.
 
 
-Artículo públicado originalmente en el [Periódico de Izcalli](https://periodicodeizcalli.com/2025/06/03/columna-tu-recibo-de-luz-subira-por-el-cambio-climatico/)
+*Article translated from Spanish with DeepL, proofread by a human*
+
+*Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/06/03/columna-tu-recibo-de-luz-subira-por-el-cambio-climatico/)*

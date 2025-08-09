@@ -3,7 +3,6 @@ layout: single
 title: "Professional_experience"
 permalink: /professional_experience/
 author_profile: true
-classes: wide
 toc: true
 toc_sticky: false
 ---
