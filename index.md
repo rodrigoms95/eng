@@ -8,9 +8,8 @@ Welcome to my website. Here, you'll find info about my academic and professional
 ## Links
 - [Research and academic](./academic)
 - [Blog](./blog)
+- [Professional experience](./professional_experience)
 - [About](./about)
-- [Professional experience](./curriculum)
-- [Reduce Soluciones](./professional_experience)
 
 ## Contact
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Munoz-Sanchez)
