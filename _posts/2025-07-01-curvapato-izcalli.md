@@ -9,9 +9,9 @@ tags:
   - energía fotovoltaica
 excerpt_separator: <!--more-->
 header:
-  header: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
-  teaser: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
-  og_image: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
+  header: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg
+  teaser: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg
+  og_image: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.jpg
 classes: wide
 date:               2025-05-07
 last_modified_at:   2025-05-07
