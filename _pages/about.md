@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Acerca de"
-permalink: /acerca_de/
+title: "About"
+permalink: /about/
 author_profile: true
 toc: true
 toc_sticky: false
