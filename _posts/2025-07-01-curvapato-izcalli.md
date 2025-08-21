@@ -1,12 +1,12 @@
 ---
 title: "The duck curve: solar energy's challenge"
 categories:
-  - Periódico de Izcalli
+  - Izcalli Times
 tags:
-  - cambio climático
-  - energía
-  - electricidad
-  - energía fotovoltaica
+  - climate change
+  - energy
+  - electricity
+  - photovoltaic energy
 excerpt_separator: <!--more-->
 header:
   header: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
