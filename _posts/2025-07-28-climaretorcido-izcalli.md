@@ -5,7 +5,7 @@ categories:
 tags:
   - climate change
   - environmental philosophy
-excerpt_separator: <!--more-->
+excerpt: "What do cooking a frog in a pot, flushing the toilet, and turning the key to start our car have in common?"
 header:
   header: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-07-28-climaretorcido-izcalli/Imagen_1.jpg
@@ -23,7 +23,7 @@ last_modified_at:   2025-07-28
   “The metabolic rift”, by Evelin Kolijn
 </p>
 
-What do cooking a frog in a pot, flushing the toilet, and turning the key to start our car have in common? <!--more-->Let's think about the last one first: an everyday act that is part of the routine of many Mexicans who, due to lack of options, safety, or status, drive to work every day, and for those who travel by public transportation, there is also a driver who performs that action. An act we perform without thinking, just hoping to avoid traffic that day, and we do it much less with the intention of destroying coral reefs. And yet that is exactly what happens when that action is repeated a billion times a day. Timothy Morton invites us to reflect: one person driving is harmless, but humanity driving is destroying the planet, and yet we as individuals are part of that humanity.
+What do cooking a frog in a pot, flushing the toilet, and turning the key to start our car have in common? Let's think about the last one first: an everyday act that is part of the routine of many Mexicans who, due to lack of options, safety, or status, drive to work every day, and for those who travel by public transportation, there is also a driver who performs that action. An act we perform without thinking, just hoping to avoid traffic that day, and we do it much less with the intention of destroying coral reefs. And yet that is exactly what happens when that action is repeated a billion times a day. Timothy Morton invites us to reflect: one person driving is harmless, but humanity driving is destroying the planet, and yet we as individuals are part of that humanity.
 
 Something similar happens with the toilet bowl in the form of the breakdown of an ancestral cycle. In nature, there is no trash because the excretions or the carcass of an animal is the food source for another one. We, on the other hand, extract nutrients from rural soil and, instead of returning them from the cities, we flush the toilet and watch as the problem disappears from our minds. Karl Marx called this anti-animal behavior of modern humans the metabolic rift. Another problem we are reluctant participants in; none of us decided to handle our excrement this way, we were simply born and the toilets were already there.
 

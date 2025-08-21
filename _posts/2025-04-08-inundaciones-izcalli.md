@@ -6,7 +6,7 @@ tags:
   - climate change
   - extreme events
   - precipitation
-excerpt_separator: <!--more-->
+excerpt: "A warmer atmosphere can store more water vapor, so global precipitation is expected to increase."
 header:
   header: /assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_1.png

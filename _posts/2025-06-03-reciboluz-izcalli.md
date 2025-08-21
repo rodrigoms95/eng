@@ -6,7 +6,7 @@ tags:
   - climate change
   - energy
   - electricty
-excerpt_separator: <!--more-->
+excerpt: "The impacts of climate change on our household economies will be considerable."
 header:
   header: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-06-03-reciboluz-izcalli/Imagen_1.jpg
@@ -25,7 +25,7 @@ last_modified_at:   2025-06-03
 </p>
 
 
-The impacts of climate change on our household economies will be considerable. <!--more-->Rising temperatures will cause us to consume more electricity, and during more intense heat waves, it will be harder for the power grid to meet demand, an effect we are already beginning to see today in the Yucatan Peninsul (southeaster Mexico) with its continuous blackouts.
+The impacts of climate change on our household economies will be considerable. Rising temperatures will cause us to consume more electricity, and during more intense heat waves, it will be harder for the power grid to meet demand, an effect we are already beginning to see today in the Yucatan Peninsul (southeaster Mexico) with its continuous blackouts.
 
 To understand the origin of this problem, we must consider that the average family in Mexico uses 30% of their electricity to make their homes more comfortable when it is hot, either with fans or air conditioners. However, there is significant variation across the country: **in the center, only 3% is used for cooling, in the south 30% is used, and in the north it accounts for up to 53% of households' electricity bills**.
 

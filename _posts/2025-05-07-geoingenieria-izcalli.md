@@ -5,7 +5,7 @@ categories:
 tags:
   - climate change
   - geoengineering
-excerpt_separator: <!--more-->
+excerpt: "Geoengineering encompasses a series of proposals for large-scale international intervention to counteract climate change."
 header:
   header: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-05-07-geoingenieria-izcalli/Imagen_1.png
@@ -23,7 +23,7 @@ last_modified_at:   2025-05-07
   Source: gwagner.com/wsj-sg/
 </p>
 
-Climate change is the result of activities that make up our economy, such as energy generation, agriculture, metallurgy, cement production, and more. <!--more-->It is important to recognize that Mexico's industrial development has led to a radical improvement in our standard of living over the last century. For example, Cuautitlán Izcalli, a suburb of Mexico City, is the 40th municipality out of 2,479 in terms of economic activity, of which only 3% is agricultural, making the municipality predominantly industrial and an important pillar of the national economy.
+Climate change is the result of activities that make up our economy, such as energy generation, agriculture, metallurgy, cement production, and more. It is important to recognize that Mexico's industrial development has led to a radical improvement in our standard of living over the last century. For example, Cuautitlán Izcalli, a suburb of Mexico City, is the 40th municipality out of 2,479 in terms of economic activity, of which only 3% is agricultural, making the municipality predominantly industrial and an important pillar of the national economy.
 
 However, the stagnation of living standards in recent decades and the recent increase in extreme weather events, such as Hurricane Otis, are showing us that the current dependence on fossil fuels is unsustainable and that the transition to a sustainable economy is happening at too slow a pace. The average temperature in Izcalli has risen by 1.5°C due to human activities, more than the global average of 1.3°C, and by 2100 it could rise by 3.1°C if we do not increase our ambition to combat climate change.
 

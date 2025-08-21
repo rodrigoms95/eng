@@ -7,7 +7,7 @@ tags:
   - energy
   - electricity
   - photovoltaic energy
-excerpt_separator: <!--more-->
+excerpt: "A fundamental problem with solar energy is that it is variable."
 header:
   header: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
   teaser: /assets/images/blog/2025-07-01-curvapato-izcalli/Imagen_1.png
@@ -25,7 +25,7 @@ last_modified_at:   2025-05-07
   Source: PV Magazine
 </p>
 
-Globally, three-quarters of the greenhouse gas emissions that cause climate change are due to energy use.  <!--more-->Therefore, the main tool we have to combat climate change is the energy transition; that is, to stop using fossil fuels, such as oil, and start using almost all of our energy from renewable sources, such as wind or solar.
+Globally, three-quarters of the greenhouse gas emissions that cause climate change are due to energy use.  Therefore, the main tool we have to combat climate change is the energy transition; that is, to stop using fossil fuels, such as oil, and start using almost all of our energy from renewable sources, such as wind or solar.
 
 However, a fundamental problem with solar energy is that it is variable, which means that we do not have access to energy when we need it, but can only use it when it is available. Obviously, solar energy is only available during the day, and its peak generation occurs when the sun is at its highest point in the sky around midday. On the other hand, demand, or energy use, is usually minimal during the early morning and peaks in the evening.
 

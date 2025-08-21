@@ -6,7 +6,7 @@ tags:
   - climate change
   - geoengineering
   - press releases
-excerpt_separator: <!--more-->
+excerpt: "Researchers from UNAM have developed a tool to model the impacts that geoengineering interventions would have in Mexico."
 header:
   header: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png
   teaser: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png
@@ -22,7 +22,7 @@ last_modified_at:   2025-08-13
   Image: ChatGPT
 </p>
 
-A team of researchers from the Institute of Atmospheric Sciences and Climate Change at the National Autonomous University of Mexico (UNAM), supported by funding from the Degrees Modelling Fund, has developed a tool to model the impacts that geoengineering interventions would have in Mexico and other countries in the Global South.<!--more-->
+A team of researchers from the Institute of Atmospheric Sciences and Climate Change at the National Autonomous University of Mexico (UNAM), supported by funding from the Degrees Modelling Fund, has developed a tool to model the impacts that geoengineering interventions would have in Mexico and other countries in the Global South.
 
 Geoengineering consists of measures to reduce global temperatures caused by the burning of fossil fuels, for example, by releasing particles into the atmosphere that reflect solar radiation.
 
