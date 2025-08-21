@@ -8,16 +8,16 @@ tags:
   - precipitation
 excerpt_separator: <!--more-->
 header:
-  header: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
-  teaser: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
-  og_image: /assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png
+  header: /assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_1.png
+  teaser: /assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_1.png
+  og_image: /assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_1.png
 classes: wide
 date:               2025-04-08
 last_modified_at:   2025-08-08
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_1.png" alt="Half-submerged car in a flooded street" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_1.png" alt="Half-submerged car in a flooded street" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Photo: ADN 40.
 </p>
@@ -35,7 +35,7 @@ To give an example, let's consider Cuautitlán Izcalli, a suburb of Mexico City.
 This stark change should be a wake-up call for all municipalities regarding the need to address the impacts that climate change will have on their infrastructure and how to design sewer systems and other infrastructure works that are prepared for the hydrological conditions of the future years in which they will operate, rather than the present.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones_izcalli/Imagen_2.jpg" alt="Some persons trying to cross a flooded street, theres a bus in the background" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025_04_08-inundaciones-izcalli/Imagen_2.jpg" alt="Some persons trying to cross a flooded street, theres a bus in the background" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Photo: Tribuna.
 </p>

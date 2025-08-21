@@ -19,7 +19,7 @@ last_modified_at:   2025-08-13
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png" alt="Sunset" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
-  Imagen: ChatGPT
+  Image: ChatGPT
 </p>
 
 A team of researchers from the Institute of Atmospheric Sciences and Climate Change at the National Autonomous University of Mexico (UNAM), supported by funding from the Degrees Modelling Fund, has developed a tool to model the impacts that geoengineering interventions would have in Mexico and other countries in the Global South.<!--more-->
