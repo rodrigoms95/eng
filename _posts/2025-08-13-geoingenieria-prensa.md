@@ -13,7 +13,7 @@ header:
   og_image: /assets/images/blog/2025-08-13-geoingenieria-prensa/Imagen_1.png
 classes: wide
 date:               2025-08-13
-last_modified_at:   2025-13-13
+last_modified_at:   2025-08-13
 ---
 
 <p align="center">
