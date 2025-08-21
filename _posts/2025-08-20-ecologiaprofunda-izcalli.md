@@ -5,7 +5,7 @@ categories:
 tags:
   - climate change
   - environmental philosophy
-excerpt_separator: <!--more-->
+excerpt: "For thousands of years, humans have questioned our relationship with the environment around us."
 header:
   header: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
   teaser: /assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_1.jpg
@@ -26,7 +26,7 @@ last_modified_at:   2025-08-20
 For thousands of years, humans have questioned our relationship with the environment around us. The Western view is that humans are the pinnacle of evolution, and therefore nature is at our service to be exploited. Needless to say, this has led us to the planetary crisis we are currently experiencing.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_2.jpg" alt="Mural of a man controlling the atom and science and technology" style='height: 150%; width: 150%; object-fit: contain'/>
+  <img src="https://raw.githubusercontent.com/rodrigoms95/rodrigoms95.github.io/master/assets/images/blog/2025-08-20-ecologiaprofunda-izcalli/Imagen_2.png" alt="Mural of a man controlling the atom and science and technology" style='height: 150%; width: 150%; object-fit: contain'/>
   <br>
   Industrialism is based on a vision of nature at our service.
   <br>
