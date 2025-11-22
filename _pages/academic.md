@@ -33,7 +33,7 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 # Dissertation advisor  (in Spanish)
 
-## Bachelors
+## Bachelor's
 
 * Anaya Ballina S. A. (2025). Evaluation of the FIFA World Cup Sustainability Framework and their carbon footpring. BSc. Environmental Engineering. School of Engineering, UNAM. [(web)](https://tesiunamdocumentos.dgb.unam.mx/ptd2025/jul_sep/0877517/Index.html) [(pdf)](../assets/pdf/Tesis_Licenciatura_Santiago_Anaya_Rodrigo_Muñoz.pdf)
 
