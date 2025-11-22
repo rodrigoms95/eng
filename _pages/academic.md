@@ -14,20 +14,28 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 # Academic Papers
 
-* **Muñoz-Sánchez, R.**, Bastien-Olvera, B. A., Calderón, O., Estrada Porrúa, F., & Altamirano, M. (2025). GeoMIP-Pattern – a pattern scaling dataset for efficient generation of custom geoengineering scenarios. Scientific Data, 12(1), 1343. [https://doi.org/10.1038/s41597-025-05496-6](https://doi.org/10.1038/s41597-025-05496-6)
-* **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An objective procedure for rainy season onset and withdrawal dates over the Mexico Valley Basin. Theoretical and Applied Climatology. [https://doi.org/10.1007/s00704-023-04714-8](https://doi.org/10.1007/s00704-023-04714-8)
+* **Muñoz-Sánchez, R.**, Bastien-Olvera, B. A., Calderón, O., Estrada Porrúa, F., & Altamirano, M. (2025). GeoMIP-Pattern – a pattern scaling dataset for efficient generation of custom geoengineering scenarios. Scientific Data, 12(1), 1343. [https://doi.org/10.1038/s41597-025-05496-6](https://doi.org/10.1038/s41597-025-05496-6) [(pdf)](../assets/pdf/GeoMIP-Pattern_a_pattern_scaling_dataset_for_efficient_generation_of_custom_geoengineering_scenarios.pdf)
+* **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An objective procedure for rainy season onset and withdrawal dates over the Mexico Valley Basin. Theoretical and Applied Climatology. [https://doi.org/10.1007/s00704-023-04714-8](https://doi.org/10.1007/s00704-023-04714-8) [(pdf)](../assets/pdf/An_objective_procedure_for_rainy_season_onset_and_withdrawal_dates_over_the_Mexico_Valley_Basin.pdf)
 
 
 # Reports
 
-* UNESCO. (2025). Who bears the costs? Addressing inequalities from climate change and climate action. UNESCO. [https://doi.org/10.54678/GIXE7906](https://doi.org/10.54678/GIXE7906)
+* UNESCO. (2025). Who bears the costs? Addressing inequalities from climate change and climate action. UNESCO. [https://doi.org/10.54678/GIXE7906](https://doi.org/10.54678/GIXE7906) [(pdf)](../assets/pdf/UNESCO_Who_Bears_the_Costs_Addressing_inequalities_from_climate_change_and_climate_action.pdf)
 
+# Books
+
+* Renewable Energy – A Textbook. Coauthors: García L., Cruz G. Tovar M., et al. [(web)](http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/RepoFi/20241/Energias-renovables%282025%29.pdf) [(pdf)](../assets/pdf/Apuntes_de_Energias_Renovables.pdf)
 
 # Book Chapters
 
 * BRICS Youth Energy Agency (2024). BRICS Youth Energy Outlook 2024 - Chapter 4: Climate. BRICS Youth Energy Agency. [(web)](https://impact-mission.org/upload/news/BRICSYEO2024.pdf) [(pdf)](../assets/pdf/BRICS_Youth_Energy_Outlook_2024_04_-_Climate_Change.pdf)
 * BRICS Youth Energy Agency (2024). BRICS Youth Energy Outlook 2024 - Chapter 8: Business in Energy Sector. BRICS Youth Energy Agency. [(web)](https://impact-mission.org/upload/news/BRICSYEO2024.pdf) [(pdf)](../assets/pdf/BRICS_Youth_Energy_Outlook_2024_08_-_Business_in_Energy_Sector.pdf)
 
+# Dissertation advisor  (in Spanish)
+
+## Bachelors
+
+* Anaya Ballina S. A. (2025). Evaluation of the FIFA World Cup Sustainability Framework and their carbon footpring. BSc. Environmental Engineering. School of Engineering, UNAM. [(web)](https://tesiunamdocumentos.dgb.unam.mx/ptd2025/jul_sep/0877517/Index.html) [(pdf)](../assets/pdf/Tesis_Licenciatura_Santiago_Anaya_Rodrigo_Muñoz.pdf)
 
 # Dissertations (in Spanish)
 

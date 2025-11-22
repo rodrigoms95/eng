@@ -60,4 +60,4 @@ Arne Naess proposes that, like any other living being, humans have no right to r
 
 *Article translated from Spanish with DeepL, proofread by a human*
 
-*Article published originally in Spanish in the Izcalli Times*
+*Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/08/21/columna-pasar-del-chapoteadero-a-la-fosa-de-clavados-la-ecologia-profunda/)*
