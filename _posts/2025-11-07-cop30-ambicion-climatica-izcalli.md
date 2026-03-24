@@ -45,4 +45,6 @@ Mexico can be a regional leader in comprehensive climate change management with 
 This text summarizes the findings of the UNAM's Climate Change Research Program (PINCC) for the generation of policies based on scientific evidence.
 
 
+*Article translated from Spanish with DeepL, proofread by a human*
+
 *Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/11/13/la-ambicion-climatica-de-mexico-ante-la-cop30/)*

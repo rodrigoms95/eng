@@ -21,12 +21,13 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 My consulting work centers on climate change impats and emissions mitigation, as well as green infrastructure, renewable energy, and other environmental policy.
 
-* **Capacity Building for Science-Base Climate Policies and Updating Mexico's NDC**. Decarbonization Pathways Modeller. Participating Institutions: SEMARNAT, INECC, PINCC-UNAM, ICAyCC-UNAM, OSF. *Diciembre 2025 - Actual*
+* **Mexico Climate Change & Development Report, World Bank**. Climate change impact channels quantification. Participating Institutions: World Bank. *Dec 2025 – Mar 2026*
+* **Capacity Building for Science-Base Climate Policies and Updating Mexico's NDC**. Decarbonization Pathways Modeller. Participating Institutions: SEMARNAT, INECC, PINCC-UNAM, ICAyCC-UNAM, OSF. *December 2025 - Present*
 * **UNESCO's Climate Transition Report** Exposure and Vulnerability Indices modeller and policy evaluator. Participating Institutions: UNESCO. *June 2024 - July 2025*.
 * **BRICS Youth Energy Agency**. Senior expert in Climate Change and Business in Energy Sector. Participating Institutions: BRICS Youth Energy Agency. *June 2024 - October 2024*
-* **Scientific Tools for Climate Change Decision Making in Mexico City** Climate scenarios modeller. Participating Institutions: CONAHCYT, UNAM.
+* **Scientific Tools for Climate Change Decision Making in Mexico City** Climate scenarios modeller. Participating Institutions: CONAHCYT, UNAM. *Oct 2023 – Dec 2024*
 * **Geoengineering strategies risk evaluator**. Participating Institutions: Degrees Initiative, UNAM. *March 2024 - Present*
-* **Consultor técnico especializado en políticas ambientales** Senado de la República, Grupo Parlamentario del Partido Verde. *October 2023 - Present*
+* **Specialized consultant in environmental policy** Mexican Senate, Green Party Parliamentary Group. *October 2023 - December 2023*
 
 
 # National Autonomous University of Mexico (UNAM) - Faculty of Engineering (FI)

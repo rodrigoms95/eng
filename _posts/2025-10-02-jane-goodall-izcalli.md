@@ -45,4 +45,6 @@ There are four elements that filled Goodall with hope for the future. The first 
 It is worth fighting for the beauty and wonder of Gaia, and people like Jane Goodall have been and will continue to be a beacon of hope to guide us as we collectively build new realities that are more just and harmonious.
 
 
+*Article translated from Spanish with DeepL, proofread by a human*
+
 *Article published originally in Spanish in the [Izcalli Times](https://periodicodeizcalli.com/2025/10/06/en-homenaje-a-jane-goodall-un-faro-de-esperanza-ante-la-crisis-planetaria/)*

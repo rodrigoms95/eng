@@ -9,11 +9,13 @@ toc_sticky: false
 
 Here you'll find a summary of my academic activity.
 
-Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a PDF with my resumé.
+Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2026-03.pdf) to download a PDF with my resumé and [here](https://drive.google.com/drive/folders/1xlQzQUGuyGLKHmBsmh9COGxlKx_JxnLf?usp=sharing) to access the documents that back it.
 
 
 # Academic Papers
 
+* **Muñoz Sánchez, R.**, Velasco, J. A., Estrada Porrúa, F., & Calderón Bustamante, O. (2026). *Impacts of climate change on electrical subsidies’ public policies: The case of Mexico*. Mitigation and Adaptation Strategies for Global Change, 31(3), 20. [https://doi.org/10.1007/s11027-025-10282-1](https://doi.org/10.1007/s11027-025-10282-1) [(pdf)](../assets/pdf/Impacts_of_climate_change_on_electrical_subsidies'_public_policies_-_the_case_of_Mexico.pdf)
+* Estrada, F., Bastien-Olvera, B. A., Calderon-Bustamante, O., Altamirano, M. A., **Muñoz-Sánchez, R.**, Moreno-Cruz, J., & Botzen, W. (2026). *Economic assessment of SRM under socio-political and geophysical tipping dynamics*. Environmental Research: Climate, 5(1), 015015.[https://doi.org/10.1088/2752-5295/ae33df](https://doi.org/10.1088/2752-5295/ae33df) [(pdf)](../assets/pdf/Economic_assessment_of_SRM_under_sociopolitical_and_geophysical_tipping_dynamics.pdf)
 * **Muñoz-Sánchez, R.**, Bastien-Olvera, B. A., Calderón, O., Estrada Porrúa, F., & Altamirano, M. (2025). GeoMIP-Pattern – a pattern scaling dataset for efficient generation of custom geoengineering scenarios. Scientific Data, 12(1), 1343. [https://doi.org/10.1038/s41597-025-05496-6](https://doi.org/10.1038/s41597-025-05496-6) [(pdf)](../assets/pdf/GeoMIP-Pattern_a_pattern_scaling_dataset_for_efficient_generation_of_custom_geoengineering_scenarios.pdf)
 * **Muñoz-Sanchez, R.**, Ordoñez, P., Gallego, D., & Ochoa-Moya, C. A. (2023). An objective procedure for rainy season onset and withdrawal dates over the Mexico Valley Basin. Theoretical and Applied Climatology. [https://doi.org/10.1007/s00704-023-04714-8](https://doi.org/10.1007/s00704-023-04714-8) [(pdf)](../assets/pdf/An_objective_procedure_for_rainy_season_onset_and_withdrawal_dates_over_the_Mexico_Valley_Basin.pdf)
 
@@ -45,18 +47,19 @@ Click [here](../assets/pdf/CV_Rodrigo_Munoz_English_2025-06.pdf) to download a P
 
 # Participation in projects
 
+* **Mexico Climate Change & Development Report, World Bank**. Climate change impact channels quantification. Participating Institutions: World Bank. *Dec 2025 – Mar 2026*
 * **Capacity Building for Science-Base Climate Policies and Updating Mexico's NDC**. Decarbonization Pathways Modeller. Participating Institutions: SEMARNAT, INECC, PINCC-UNAM, ICAyCC-UNAM, OSF. *Diciembre 2025 - Actual*
 * **UNESCO's Climate Transition Report** Exposure and Vulnerability Indices modeller and policy evaluator. Participating Institutions: UNESCO. *June 2024 - July 2025*.
 * **BRICS Youth Energy Agency**. Senior expert in Climate Change and Business in Energy Sector. Participating Institutions: BRICS Youth Energy Agency. *June 2024 - October 2024*
-* **Scientific Tools for Climate Change Decision Making in Mexico City** Climate scenarios modeller. Participating Institutions: CONAHCYT, UNAM.
-* **Geoengineering strategies risk evaluator**. Participating Institutions: Degrees Initiative, UNAM. *March 2024 - Present*
+* **Scientific Tools for Climate Change Decision Making in Mexico City** Climate scenarios modeller. Participating Institutions: CONAHCYT, UNAM. *Oct 2023 – Dec 2024*
+* **Geoengineering strategies risk evaluator**. Participating Institutions: Degrees Initiative, UNAM. *March 2024 - Jun 2025*
 
 
 # Teaching
 
 * *Graduate-level*
-    * **Proyectos fotovoltaicos**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *August 2024 - December 2024*.
-    * **Proyectos de infraestructura verde**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *January 2025 - July 2025*.
+    * **Proyectos fotovoltaicos**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *August 2024 - July 2026*.
+    * **Proyectos de infraestructura verde**. Graduate level course for the Specialization in Environmental Engineering. School of Engineering, National Autonomous University of Mexico. *January 2025 - July 2026*.
 * *Undergraduate-level*
     * **Mass and Energy Transfer**. Undergraduate level course for the Environmental Engineering Major. School of Engineering, National Autonomous University of Mexico. *August 2023 – Jy 2025. Course taught 4 times*.
     * **Cambio climático**. Undergraduate level course for the Environmental Engineering Major. School of Engineering, National Autonomous University of Mexico. *January 2024 – December 2024. Course taught 2 times*.
@@ -91,10 +94,9 @@ Infrastructure Potential Forum, challenges for sustainable water management. Mex
 * **The importance of location in solar energy projects.** EnVerdeSer Expo. *Mexico City. November 2016*.
 
 
-# Participation in congresses
+# Participation in conferences
 
-# Participación en congresos
-
+* **Muñoz-Sanchez R.**  Altamirano. M, Calderón O., Estrada F., Bastien B. (2026). Modelling solar radiation modification in process-based integrated assessment models. European Geophysical Union Annual Meeting 2026. [Abstract](https://doi.org/10.5194/egusphere-egu26-15451)
 * Calderón O., Estrada F., Altamirano. M, Bastien B., **Muñoz-Sanchez R.** (2025). Assessment of the Impacts and Risks of Climate Change A Probabilistic
 Climate Model Emulator with Solar Radiation Modification (AIRCC-Clim-
 SRM). International Simposium "Climate & Resilience: the future is present". [Póster](https://doi.org/10.13140/RG.2.2.24730.50889)
